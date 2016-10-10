@@ -5,8 +5,8 @@
     <description></description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 09 Oct 2016 19:02:00 -0400</pubDate>
-    <lastBuildDate>Sun, 09 Oct 2016 19:02:00 -0400</lastBuildDate>
+    <pubDate>Mon, 10 Oct 2016 08:34:28 -0400</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2016 08:34:28 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;Barr Farms is a seventh-generation family farm. We have been here for a long time!&lt;/p&gt;
 </description>
         <pubDate>Sun, 09 Oct 2016 00:00:00 -0400</pubDate>
-        <link>/2016/10/09/the-farm/</link>
-        <guid isPermaLink="true">/2016/10/09/the-farm/</guid>
+        <link>/the-farm/</link>
+        <guid isPermaLink="true">/the-farm/</guid>
         
         
       </item>
@@ -25,8 +25,8 @@
         <description>&lt;p&gt;The house is really great and one-of-a-kind!&lt;/p&gt;
 </description>
         <pubDate>Sat, 08 Oct 2016 00:00:00 -0400</pubDate>
-        <link>/2016/10/08/the-house/</link>
-        <guid isPermaLink="true">/2016/10/08/the-house/</guid>
+        <link>/the-house/</link>
+        <guid isPermaLink="true">/the-house/</guid>
         
         
       </item>
@@ -36,8 +36,8 @@
         <description>&lt;p&gt;We love horses here on Barr Farms.&lt;/p&gt;
 </description>
         <pubDate>Sat, 08 Oct 2016 00:00:00 -0400</pubDate>
-        <link>/2016/10/08/the-horses/</link>
-        <guid isPermaLink="true">/2016/10/08/the-horses/</guid>
+        <link>/the-horses/</link>
+        <guid isPermaLink="true">/the-horses/</guid>
         
         
       </item>
